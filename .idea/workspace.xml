@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02cbcced-0730-4b71-b346-a447bdd22b87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Test/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +12,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\java\xiangmu\Test\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -87,8 +89,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587883172936</updated>
-      <workItem from="1587883175889" duration="264000" />
+      <workItem from="1587883175889" duration="521000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1587883440585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587883440585</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1587883559336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587883559336</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,17 +113,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="589" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587883276703">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="589" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1474.864@0.0.1474.864" timestamp="1587883276703" />
-    <state x="328" y="61" key="CommitChangelistDialog2" timestamp="1587883438676">
+    <state x="328" y="61" key="CommitChangelistDialog2" timestamp="1587883702501">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="328" y="61" key="CommitChangelistDialog2/0.0.1474.864@0.0.1474.864" timestamp="1587883438676" />
+    <state x="328" y="61" key="CommitChangelistDialog2/0.0.1474.864@0.0.1474.864" timestamp="1587883702501" />
     <state x="1036" y="353" key="FileChooserDialogImpl" timestamp="1587883339524">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -127,9 +145,17 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state width="1098" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1587883529538" />
-    <state x="382" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587883455069">
+    <state x="382" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587883566939">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="382" y="250" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1587883455069" />
+    <state x="382" y="250" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1587883566939" />
+    <state x="521" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587883733059">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="521" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1474.864@0.0.1474.864" timestamp="1587883733059" />
+    <state x="453" y="209" key="git4idea.merge.GitPullDialog" timestamp="1587883758157">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="453" y="209" key="git4idea.merge.GitPullDialog/0.0.1474.864@0.0.1474.864" timestamp="1587883758157" />
   </component>
 </project>

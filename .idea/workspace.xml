@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02cbcced-0730-4b71-b346-a447bdd22b87" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +11,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -89,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587883172936</updated>
-      <workItem from="1587883175889" duration="521000" />
+      <workItem from="1587883175889" duration="790000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1587883440585</created>
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587883559336</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第三次提交">
+      <created>1587883815958</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587883815958</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,45 +120,54 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
     <MESSAGE value="第二次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
+    <MESSAGE value="第三次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="589" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587883276703">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="589" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1474.864@0.0.1474.864" timestamp="1587883276703" />
-    <state x="328" y="61" key="CommitChangelistDialog2" timestamp="1587883702501">
+    <state x="328" y="61" key="CommitChangelistDialog2" timestamp="1587883814585">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="328" y="61" key="CommitChangelistDialog2/0.0.1474.864@0.0.1474.864" timestamp="1587883702501" />
+    <state x="328" y="61" key="CommitChangelistDialog2/0.0.1474.864@0.0.1474.864" timestamp="1587883814585" />
     <state x="1036" y="353" key="FileChooserDialogImpl" timestamp="1587883339524">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="1036" y="353" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1587883339524" />
-    <state width="1098" height="224" key="GridCell.Tab.0.bottom" timestamp="1587883529538">
+    <state width="1098" height="224" key="GridCell.Tab.0.bottom" timestamp="1587883833328">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1098" height="224" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1587883529538" />
-    <state width="1098" height="224" key="GridCell.Tab.0.center" timestamp="1587883529538">
+    <state width="1098" height="224" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1587883833328" />
+    <state width="1098" height="224" key="GridCell.Tab.0.center" timestamp="1587883833328">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1098" height="224" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1587883529538" />
-    <state width="1098" height="224" key="GridCell.Tab.0.left" timestamp="1587883529538">
+    <state width="1098" height="224" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1587883833328" />
+    <state width="1098" height="224" key="GridCell.Tab.0.left" timestamp="1587883833328">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1098" height="224" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1587883529538" />
-    <state width="1098" height="224" key="GridCell.Tab.0.right" timestamp="1587883529538">
+    <state width="1098" height="224" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1587883833328" />
+    <state width="1098" height="224" key="GridCell.Tab.0.right" timestamp="1587883833328">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1098" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1587883529538" />
-    <state x="382" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587883566939">
+    <state width="1098" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1587883833328" />
+    <state x="158" y="48" key="MergeDialog" timestamp="1587884073685">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="382" y="250" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1587883566939" />
-    <state x="521" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587883733059">
+    <state x="158" y="48" key="MergeDialog/0.0.1474.864@0.0.1474.864" timestamp="1587884073685" />
+    <state x="463" y="122" key="MultipleFileMergeDialog" timestamp="1587884073692">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="521" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1474.864@0.0.1474.864" timestamp="1587883733059" />
+    <state x="463" y="122" key="MultipleFileMergeDialog/0.0.1474.864@0.0.1474.864" timestamp="1587884073692" />
+    <state x="382" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587883823452">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="382" y="250" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1587883823452" />
+    <state x="521" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587884005412">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="521" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1474.864@0.0.1474.864" timestamp="1587884005412" />
     <state x="453" y="209" key="git4idea.merge.GitPullDialog" timestamp="1587883758157">
       <screen x="0" y="0" width="1474" height="864" />
     </state>

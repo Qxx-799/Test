@@ -10,6 +10,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -88,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587883172936</updated>
-      <workItem from="1587883175889" duration="790000" />
+      <workItem from="1587883175889" duration="1073000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1587883440585</created>
@@ -111,27 +116,46 @@
       <option name="project" value="LOCAL" />
       <updated>1587883815958</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第四次提交">
+      <created>1587884091845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587884091845</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
     <MESSAGE value="第二次提交" />
     <MESSAGE value="第三次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三次提交" />
+    <MESSAGE value="第四次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="589" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587883276703">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="589" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1474.864@0.0.1474.864" timestamp="1587883276703" />
-    <state x="328" y="61" key="CommitChangelistDialog2" timestamp="1587883814585">
+    <state x="328" y="61" key="CommitChangelistDialog2" timestamp="1587884090453">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="328" y="61" key="CommitChangelistDialog2/0.0.1474.864@0.0.1474.864" timestamp="1587883814585" />
+    <state x="328" y="61" key="CommitChangelistDialog2/0.0.1474.864@0.0.1474.864" timestamp="1587884090453" />
     <state x="1036" y="353" key="FileChooserDialogImpl" timestamp="1587883339524">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -160,10 +184,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="463" y="122" key="MultipleFileMergeDialog/0.0.1474.864@0.0.1474.864" timestamp="1587884073692" />
-    <state x="382" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587883823452">
+    <state x="382" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587884096731">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="382" y="250" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1587883823452" />
+    <state x="382" y="250" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1587884096731" />
     <state x="521" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587884005412">
       <screen x="0" y="0" width="1474" height="864" />
     </state>

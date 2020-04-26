@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02cbcced-0730-4b71-b346-a447bdd22b87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -12,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1b4EsYAIQz2Ek0mSjcK58nhVhD7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +39,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\xiangmu\Test" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -43,14 +65,71 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02cbcced-0730-4b71-b346-a447bdd22b87" name="Default Changelist" comment="" />
+      <created>1587883172936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587883172936</updated>
+      <workItem from="1587883175889" duration="264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="589" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587883276703">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="589" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1474.864@0.0.1474.864" timestamp="1587883276703" />
+    <state x="328" y="61" key="CommitChangelistDialog2" timestamp="1587883438676">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="328" y="61" key="CommitChangelistDialog2/0.0.1474.864@0.0.1474.864" timestamp="1587883438676" />
     <state x="1036" y="353" key="FileChooserDialogImpl" timestamp="1587883339524">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="1036" y="353" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1587883339524" />
+    <state width="1098" height="224" key="GridCell.Tab.0.bottom" timestamp="1587883529538">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1098" height="224" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1587883529538" />
+    <state width="1098" height="224" key="GridCell.Tab.0.center" timestamp="1587883529538">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1098" height="224" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1587883529538" />
+    <state width="1098" height="224" key="GridCell.Tab.0.left" timestamp="1587883529538">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1098" height="224" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1587883529538" />
+    <state width="1098" height="224" key="GridCell.Tab.0.right" timestamp="1587883529538">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1098" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1587883529538" />
+    <state x="382" y="250" key="Vcs.Push.Dialog.v2" timestamp="1587883455069">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="382" y="250" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1587883455069" />
   </component>
 </project>
